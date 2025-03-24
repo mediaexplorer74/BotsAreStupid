@@ -1,7 +1,7 @@
 # BotsAreStupid 1.0-pre-alpha - main branch 
 ![Logo](Images/logo.png)
 
-R.E. of ITCH.io ReechAndHait "special game dev project". ;)
+R.E. of ITCH.io BotsAreStupid "special game dev project". ;)
 
 ## Screenshots
 ![W11](Images/sshot01.png)
@@ -15,7 +15,7 @@ R.E. of ITCH.io ReechAndHait "special game dev project". ;)
 ## ToDo
 - Fix 100500 bugs
 - Refactor code 
-- Add somecool music for dev deals, hehe (see Lukas Schönwiese  https://soundcloud.com/lukas-schoenwiese, Bots Are Stupid - Official Game Score theme))))
+- Add some cool music for dev deals, hehe (see Lukas Schönwiese  https://soundcloud.com/lukas-schoenwiese, Bots Are Stupid - Official Game Score theme))))
 
 ## .
 As is. No support. DIY. Learn purposes only.
