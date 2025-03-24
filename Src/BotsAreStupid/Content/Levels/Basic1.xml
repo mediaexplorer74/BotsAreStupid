@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level>
+  <meta>
+    <id>2487ddf6-3d2c-460d-b19d-c1550ebb5cd4</id>
+    <creator>
+      <name>leleg</name>
+      <uuid>ea21e36d-e42c-453a-9253-f0b8a5ab4809</uuid>
+    </creator>
+    <lastsaved>2021-04-08 02:58:14</lastsaved>
+  </meta>
+  <objects>
+    <portal x="403.16492" y="455.58255" width="50" height="50" />
+    <spawnpipe x="471.03876" y="158.20386" width="47" height="59" playersize="5" />
+    <backgroundobject x="1168.8544" y="90.09708" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="1168.8544" y="154.09708" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="1168.8544" y="122.09708" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="1054.8544" y="90.09708" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="1054.8544" y="122.09708" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="1054.8544" y="154.09708" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <platform x="1047.3009" y="100.83497" width="150" height="23" spritepos="96 16 96 16" collisionHeightPercent="0.1" />
+    <platform x="449.22336" y="170.40776" width="130" height="35" spritepos="1 16 30 16" collisionHeightPercent="0.1" />
+    <platform x="542.42725" y="171.96115" width="130" height="35" spritepos="1 16 30 16" collisionHeightPercent="0.1" />
+    <backgroundobject x="669.0293" y="333.64078" width="68" height="19" rotation="90" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="601.0293" y="333.64078" width="68" height="19" rotation="90" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="533.0293" y="333.64078" width="68" height="19" rotation="90" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="465.02927" y="333.64078" width="68" height="19" rotation="90" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="397.02927" y="333.64078" width="68" height="19" rotation="90" spritepos="246 84 4 12" layerdepth="0.5" />
+    <spike x="1038.5631" y="-1.9610596" width="8" height="30" rotation="270" />
+    <spike x="1198.6602" y="-1.8156738" width="8" height="30" rotation="90" />
+    <spike x="1038.5631" y="259.03894" width="8" height="30" rotation="270" />
+    <spike x="1198.6602" y="259.18433" width="8" height="30" rotation="90" />
+    <spike x="1038.5631" y="374.03894" width="8" height="30" rotation="270" />
+    <spike x="1198.6602" y="374.18433" width="8" height="30" rotation="90" />
+    <spike x="1038.5631" y="491.03894" width="8" height="30" rotation="270" />
+    <spike x="1198.6602" y="491.18433" width="8" height="30" rotation="90" />
+    <spike x="1038.5631" y="608.03894" width="8" height="30" rotation="270" />
+    <spike x="1198.6602" y="608.1843" width="8" height="30" rotation="90" />
+    <spike x="1198.6602" y="723.1843" width="8" height="30" rotation="90" />
+    <spike x="1038.5631" y="723.03894" width="8" height="30" rotation="270" />
+    <backgroundobject x="674.31067" y="175.96115" width="12" height="25" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="674.31067" y="199.96115" width="12" height="25" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="534.25244" y="198.82524" width="8" height="14" spritepos="6 65 4 7" layerdepth="0.1" />
+    <backgroundobject x="536.25244" y="184.31068" width="4" height="16" spritepos="7 56 2 8" layerdepth="0.1" />
+    <backgroundobject x="536.25244" y="168.31068" width="4" height="16" spritepos="7 56 2 8" layerdepth="0.1" />
+    <backgroundobject x="673.7572" y="248.45628" width="12" height="8" spritepos="354 14 12 8" layerdepth="0.1" />
+    <backgroundobject x="674.31067" y="223.96115" width="12" height="25" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="624.44653" y="356.3981" width="26" height="28" rotation="180" spritepos="178 66 13 14" layerdepth="0.1" />
+    <backgroundobject x="603.40784" y="370.301" width="24" height="8" rotation="90" spritepos="246 84 4 12" layerdepth="0.1" />
+    <backgroundobject x="579.40784" y="370.301" width="24" height="8" rotation="90" spritepos="246 84 4 12" layerdepth="0.1" />
+    <backgroundobject x="578.8642" y="377" width="24" height="29" rotation="90" spritepos="238 70 12 12" layerdepth="0.1" />
+    <backgroundobject x="494.6018" y="355.44662" width="82" height="80" rotation="180" spritepos="182 168 41 40" layerdepth="0.1" />
+    <backgroundobject x="1100.903" y="92.47581" width="40" height="46" rotation="180" spritepos="227 128 10 17" layerdepth="0.7" />
+    <backgroundobject x="739.49524" y="331.4271" width="26" height="24" rotation="90" spritepos="258 83 12 13" layerdepth="0.1" />
+    <backgroundobject x="955.22327" y="124.26213" width="8" height="14" spritepos="6 65 4 7" layerdepth="0.1" />
+    <backgroundobject x="957.22327" y="108.50486" width="4" height="16" spritepos="7 56 2 8" layerdepth="0.1" />
+    <backgroundobject x="832.5145" y="213.3592" width="17" height="14" spritepos="354 14 12 8" layerdepth="0.1" />
+    <backgroundobject x="832.5145" y="191.82526" width="17" height="21" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="832.5145" y="171.82526" width="17" height="21" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="832.5145" y="151.82526" width="17" height="21" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="832.5145" y="131.82526" width="17" height="21" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="832.5145" y="111.82526" width="17" height="21" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="857.96106" y="-17.708738" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+    <backgroundobject x="857.96106" y="14.291262" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+    <backgroundobject x="815.96106" y="-17.708738" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+    <backgroundobject x="815.96106" y="14.291262" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+    <backgroundobject x="853.1262" y="111.78639" width="12" height="14" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="853.1262" y="125.78639" width="12" height="14" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="853.1262" y="139.78639" width="12" height="14" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="957.32056" y="-12.427185" width="16" height="22" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="957.32056" y="9.572815" width="16" height="22" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="957.32056" y="31.572815" width="16" height="22" spritepos="354 0 12 14" layerdepth="0.1" />
+    <backgroundobject x="957.32056" y="53.572815" width="16" height="22" spritepos="354 0 12 14" layerdepth="0.1" />
+    <platform x="846.57275" y="154.09708" width="24" height="25" spritepos="80 0 16 16" />
+    <platform x="949.66016" y="77.31068" width="30" height="38" spritepos="193 0 15 19" collisionHeightPercent="0.85" />
+    <platform x="812.7378" y="45.359222" width="73" height="68" spritepos="80 0 16 16" />
+    <platform x="1044.1941" y="-509.15533" width="157" height="615" />
+    <platform x="1044.1941" y="186.84465" width="157" height="615" />
+    <backgroundobject x="1045.7281" y="187.80579" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="245.80579" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="-15.194214" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="42.805786" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.8" />
+    <backgroundobject x="1045.7281" y="767.8059" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="709.8059" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="651.8059" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="593.8059" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="535.8059" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="477.80585" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="419.80585" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="361.80585" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="1045.7281" y="303.80585" width="150" height="58" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="485.47583" y="303.60193" width="20" height="34" rotation="360" spritepos="227 128 10 17" layerdepth="0.1" />
+    <platform x="402.14563" y="1.3203735" width="328" height="177" />
+    <platform x="402.14563" y="547" width="328" height="306" />
+    <platform x="394.36902" y="328.62134" width="345" height="28" />
+    <platform x="408.13586" y="504.60193" width="42" height="42" spritepos="320 16 16 16" collisionHeightPercent="0.2" />
+    <platform x="451.27173" y="510.16504" width="13" height="10" spritepos="352 48 32 5" />
+    <platform x="465.27173" y="515.16504" width="13" height="10" spritepos="352 48 32 5" />
+    <platform x="479.27173" y="520.16504" width="13" height="10" spritepos="352 48 32 5" />
+    <platform x="493.27173" y="525.16504" width="13" height="10" spritepos="352 48 32 5" />
+    <platform x="521.2717" y="535.16504" width="13" height="10" spritepos="352 48 32 5" />
+    <platform x="507.27173" y="530.16504" width="13" height="10" spritepos="352 48 32 5" />
+    <platform x="535.2717" y="540.16504" width="13" height="10" spritepos="352 48 32 5" />
+    <spike x="415.17957" y="521.4127" width="4" height="22" rotation="270" />
+    <platform x="404.23303" y="446.4757" width="49" height="10" spritepos="352 48 32 5" />
+    <platform x="418.68945" y="416.6116" width="19" height="30" spritepos="324 48 8 16" />
+    <spike x="437.18933" y="422.14075" width="4" height="22" rotation="90" />
+    <spike x="415.17957" y="422.41272" width="4" height="22" rotation="270" />
+    <platform x="418.68945" y="386.6116" width="19" height="30" spritepos="324 48 8 16" />
+    <spike x="415.17957" y="362.41272" width="4" height="22" rotation="270" />
+    <platform x="418.68945" y="356.6116" width="19" height="30" spritepos="324 48 8 16" />
+    <spike x="437.18933" y="362.14075" width="4" height="22" rotation="90" />
+    <spike x="415.17957" y="242.41272" width="4" height="22" rotation="270" />
+    <platform x="418.68945" y="236.6116" width="19" height="30" spritepos="324 48 8 16" />
+    <platform x="418.68945" y="266.6116" width="19" height="30" spritepos="324 48 8 16" />
+    <spike x="437.18933" y="242.14075" width="4" height="22" rotation="90" />
+    <platform x="418.68945" y="296.6116" width="19" height="30" spritepos="324 48 8 16" />
+    <spike x="415.17957" y="302.41272" width="4" height="22" rotation="270" />
+    <spike x="437.18933" y="302.14075" width="4" height="22" rotation="90" />
+    <spike x="415.17957" y="182.41272" width="4" height="22" rotation="270" />
+    <platform x="418.68945" y="176.6116" width="19" height="30" spritepos="324 48 8 16" />
+    <spike x="437.18933" y="182.14075" width="4" height="22" rotation="90" />
+    <platform x="418.68945" y="206.6116" width="19" height="30" spritepos="324 48 8 16" />
+    <backgroundobject x="480.932" y="526.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="452.932" y="518.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="465.932" y="544.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="452.932" y="538.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="466.932" y="523.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="493.932" y="529.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="507.932" y="536.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="522.932" y="539.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+    <platform x="478.81555" y="280.233" width="32" height="32" spritepos="320 16 16 16" collisionHeightPercent="0.2" />
+    <backgroundobject x="403.25238" y="555.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="546.7379" y="556.3203" width="35" height="60" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="581.2524" y="555.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="581.2524" y="615.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="546.7379" y="616.3203" width="35" height="60" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="403.25238" y="615.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="403.25238" y="735.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="546.7379" y="736.3203" width="35" height="60" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="581.2524" y="735.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="581.2524" y="675.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="546.7379" y="676.3203" width="35" height="60" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="403.25238" y="675.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="403.25238" y="54.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="403.25238" y="-5.8155518" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="546.7379" y="55.320312" width="35" height="60" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="546.7379" y="-4.6796875" width="35" height="60" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="581.2524" y="54.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="581.2524" y="-5.8155518" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="403.25238" y="114.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.8" />
+    <backgroundobject x="581.2524" y="114.18445" width="145" height="61" spritepos="64 96 96 32" layerdepth="0.5" />
+    <backgroundobject x="546.7379" y="115.32031" width="35" height="60" spritepos="246 84 4 12" layerdepth="0.5" />
+    <backgroundobject x="695.3009" y="516.0388" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="484.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="452.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="420.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="388.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="356.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="168.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="200.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="232.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="264.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="695.3009" y="296.03882" width="20" height="32" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="439.932" y="518.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+    <backgroundobject x="439.932" y="538.9126" width="10" height="21" spritepos="267 0 10 16" layerdepth="0.1" />
+  </objects>
+  <introinstructions>-teleport 1110 110
+wait until grounded
+wait 1
+-emote wave
+wait 1.1
+say 1 Hi there!
+wait 1.5
+say 4.5 I am the %{red}IntroBot3000%%{hidden}~~~~~~~~~~~~~~~~~~~~%*I will help you get started!
+wait 4
+say 5 This is your bot.%{hidden}~~~~~~~~~~~~~~~~~~~~%*You can give it instructions on the left!
+text 580 250 2 <![CDATA[<]]> your bot
+wait 4
+-cleartext
+say 6 Your goal is to reach the %{red}portal% down there!
+text 520 468 2 <![CDATA[<]]> %{red}portal%
+wait 4
+-cleartext
+say 18 %{space}3%Lets start with the first command: %{code}move right%%{hidden}~~~~~~~~~%*It tells your bot to start moving until instructed otherwise.%{hidden}~~~~~~~~~%*%{space}2%You can either type it out yourself or drag and drop from above.
+wait 10
+text 480 820 3 <![CDATA[<]]> Next: %{space}10% Press play to start the instructions*%{space}24%or alternatively: %{space}10% %{orange}alt <![CDATA[>]]> enter%!
+-introwait maininrect 422 332 9999 9999
+-cleartext
+say 15 Alright! You'll then need to use a %{code}wait % command to tell*your bot how long to wait before executing the next instruction.%{hidden}~~~~~~~~~~~~~~~~~~%*Afterwards, you can use %{code}move left% to change the direction.
+-introwait maininrect 422 332 150 9999
+say .7 Nice!
+wait .5
+move left
+wait until not grounded
+wait 0.42
+hook left
+wait 0.25
+unhook
+wait until grounded
+stop
+wait 0.3
+say 1 One more thing:
+wait 1.3
+say 17 %{space}4%You can use %{code}stop% to make your bot stop   %{orange}accelerating%.%{hidden}~~~~~~~~~~~~~~~~~~~~~~%*%{space}4%However, if the bot is in the air at the time, it will still keep its*%{space}6%speed until grounded.%{hidden}~~~~~~~~~~~~~~~~~~~~~~% The %{code}move% command works any time.
+wait 11
+say 1 Lets continue!
+wait 0.5
+move right
+jump
+wait 9f
+hook down right
+wait 0.420
+unhook
+move left</introinstructions>
+</level>

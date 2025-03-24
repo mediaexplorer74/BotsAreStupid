@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level>
+    <objects>
+        <platform x="389" y="116" width="32" height="15" />
+        <spawnpipe x="379" y="-9" width="50" height="80" />
+        <portal x="1201" y="722" width="50" height="50" />
+    </objects>
+    <instructions></instructions>
+</level>

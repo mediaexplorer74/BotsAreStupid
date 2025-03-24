@@ -1,0 +1,503 @@
+Skip to main content
+itch.ioitch.io logo
+Категории
+Дневники разработки
+Геймджемы
+Доска управления
+Лента
+Сообщество
+Поиск игр и создателей
+
+
+mediaexplorer74
+
+Bots are Stupid
+A downloadable game for Windows, macOS, and Linux
+
+Назовите вашу цену
+Full version available on Steam!
+Join the discussion on Discord!
+
+---
+
+Ever heard of Robots becoming sentient and taking over humanity? 
+Ridiculous! Bots are extremely stupid! They can’t even make it through a room full of deadly obstacles, nauseating heights and tiny platforms using nothing but a powerful grappling hook - without human support at least. 
+
+So why not help them?
+
+“Bots are stupid” is a 2D Platformer/Puzzle Game where instead of using live inputs to control the character, the player has to program precise instructions for his Robots to follow to make it through the level. 
+
+Step into the role of Central Locomotion Officer in a futuristic factory built to assemble and train the world’s most sophisticated machines since the invention of the Roomba. 
+
+Your supply of robots is endless so no matter how many crashes and explosions it takes, there is always a way to make it through the test chambers. But remember: the fewer commands the better!
+
+Features
+
+18 uniquely challenging Platformer Levels
+Ultra-precise control by writing instructions
+Grappling hook, Speed boosters, Conveyor belts
+Level Editor + Level Sharing
+Global Leaderboards of each level's best scripts
+Infinite supply of bots!
+Больше информации
+Скачать
+Назовите вашу цену
+Нажмите «скачать сейчас», чтобы получить доступ к следующим файлам:
+
+Bots Are Stupid - Windows
+141 MB
+Версия 1.6
+Bots Are Stupid - Windows (32bit)
+133 MB
+Версия 1.6
+Bots Are Stupid - macOS
+38 MB
+Версия 1.6
+Bots Are Stupid - Linux
+150 MB
+Версия 1.6
+Дневник разработки
+Bots Are Stupid v1.6
+Aug 04, 2022
+Bots Are Stupid v1.5
+Nov 09, 2021
+Bots Are Stupid v1.4.1
+Jul 03, 2021
+Bots Are Stupid v1.4
+Jun 19, 2021
+Bots Are Stupid v1.3.1
+Mar 14, 2021
+Bots Are Stupid v1.3
+Feb 17, 2021
+Bots Are Stupid v1.2.1
+Dec 12, 2020
+Bots Are Stupid v1.2
+Dec 09, 2020
+Посмотреть все публикации
+
+Комментарии
+Оставьте комментарий…
+
+
+
+Arteposok
+3 months ago
+(+1)
+you can made python api for nerds ;D
+
+Ответить
+Пожаловаться
+
+
+
+Arteposok
+3 months ago
+(+1)
+WOW, amazing graphics!
+
+Ответить
+Пожаловаться
+
+
+
+NoenD_io
+8 months ago
+Why did you tag this puzzlescript 
+
+Ответить
+Пожаловаться
+
+
+
+shaunweg
+2 years ago
+MacOS version doesn't seem to work. Acts like it launches, but nothing appears; seems to crash or terminate when trying to launch.
+
+Ответить
+Пожаловаться
+
+
+
+cpusam
+2 years ago
+Leleg, great game. I'm interesting in study the keys of your language used in the game. Where can I find the full spec of the language? Just for fun study. Thanks!
+
+Ответить
+Пожаловаться
+
+
+
+Fontan75
+2 years ago
+Interested in use for education. How do I email you?
+
+Ответить
+Пожаловаться
+
+
+
+ljh2000
+3 years ago
+Just trying again. If anyone can please tell me why the introduction isn't finishing, that would be great. Thanks!
+
+Ответить
+Пожаловаться
+
+
+
+LeleG
+3 years ago
+Hi there! 
+
+Sent you a mail couple of weeks ago, please make sure it didn't end up in your spam folder :) would love to help!
+
+Ответить
+Пожаловаться
+
+
+
+ljh2000
+3 years ago
+Hi,
+
+
+For some reason, my demo download won't open and it quits unexepectedly. I also tried the Steam version, but cant finish Introbot's introduction. What am I doing wrong? Please write LHollman2@schools.nyc.gov. 
+
+Thanks,
+
+Lee
+
+Ответить
+Пожаловаться
+
+
+
+pooiod7
+3 years ago
+cool
+
+Ответить
+Пожаловаться
+
+
+
+HydraDoggo
+3 years ago
+I was wondering if you have a discord server for this game, where people can talk about it and ask questions.
+
+Ответить
+Пожаловаться
+
+
+
+DReinholdtsen
+3 years ago
+https://discord.gg/Tm3A9qgZ
+
+Ответить
+Пожаловаться
+
+
+
+Snowball(Jade)
+4 years ago
+(изменено)
+This game is a very cool idea. I've done a lot of TASing in the game Remnants of Naezith (where I'm also the #1 player) so I've got experience in this kinda thing(The fruits of my and JSL's labor). I played it a bit and have some issues that I wanted to point out (this will be long winded, sorry!):
+
+First, there seems to be a lot of trial and error involved just to get waits perfect, especially on 1000 tickrate. This is fine in principle, but the game gives no tools to optimize this process which makes it very tedious.
+Some of the things that the Naezith TAS tool has that I'm missing in this game are:
+
+Being able to start the playback paused instantly allowing tick advance instead of having to timescale 0.01 and pause manually.
+Not having to (manually) reset playback to make a change to the code, or to immediately jump to the tick an instruction gets executed.
+With the above, being able to immediately place an action at the current playback tick (in this game, it'd be automatically adding a wait that waits until the current playback tick).
+Unless I'm missing yet another hidden feature (That's another issue I have), having waits that wait until an absolute time value would be very useful.
+There's also some other things that would be very useful for optimization, for example:
+
+Individual X and Y speed values instead of one velocity value. Similarly, delta X and delta Y values would be helpful, though maybe a little excessive.
+An indicator showing where the hook will go if fired on this tick would really help fix some annoying trial-and-error as well.
+
+
+Finally, some other things that bothered me about the gameplay itself:
+
+The hitboxes are not great. Whenever I'm trying to cut a corner really close the visible player hitbox goes through the wall hitbox.
+IN MY OPINION: the meta of constantly doing tiny down hooks on the ground to gain as much speed as possible is annoying to optimize and honestly not very interesting to me.
+Doing hooks when trying to go fast in this game is usually a bad idea. They tend to slow you down. This feeds into the meta: the fact that hooking is usually a bad idea if you want to keep speed really limits the possibilities and makes the meta of just doing tiny ground hooks even more prevalent.
+Because hooks are so punishing, it also seems to usually be better to hook as small as possible to get around corners.
+If you move the character such that the line of the hook ends up intersecting a wall before it lands somewhere behind, the hook instantly grabs onto the wall the line intersected even though the head was already way past it. I don't know if this is a bug or intentional behavior. (Check my time score on level 2 to see this in action, at the end)
+I find it frustrating to have to wait out the slow animation before the portal opens. Once the final orb is collected, why doesn't the portal just work immediately?
+In conclusion, I want to like this game and I want to like trying to optimize in this game, given that I have enjoyed putting over a thousand hours into just TASing Naezith.
+However, I found it to be very tedious to program, and found the optimal mechanics honestly uninteresting. You just end up ground hooking to go fast and doing tiny hooks to get around corners. Especially given it's the main mechanic of the game, hooking is way too punishing.
+
+View rest ↓
+Ответить
+Пожаловаться
+
+
+
+Snowball(Jade)
+4 years ago
+Oh also I totally understand that changing the whole physics by this point is probably not something you want to do. Just putting it out there.
+
+Ответить
+Пожаловаться
+
+
+
+AJOmega
+4 years ago
+Loved the idea bro, keep it up 💪
+
+Ответить
+Пожаловаться
+
+
+
+ragman666
+4 years ago
+(+1)
+I just found this game yesterday on steam. I'm having a lot of fun, just wanted to feedback that you can trick the game into thinking you have zero lines of code by using CAPS.
+
+
+Ответить
+Пожаловаться
+
+
+
+Barbitos
+4 years ago
+Hey! i love this game but i got a big problem with 1.1.1.
+
+Since campaign level's instructions are stored in the .exe/Content folder for stable version and not in the AppData folder, they don't stay between versions.
+
+That's pretty annoying since i had a lot of very optimized scripts in the campaign levels, especially a 152 lines WIP extreme 2 script that would break the record by about 1.6s and i don't want to lose it or rewrite it.
+
+Ответить
+Пожаловаться
+
+
+
+LeleG
+4 years ago
+(+1)
+Hi! 
+
+Definitely sounds like a pretty annoying problem but I think your old instructions should still be safe. 
+
+Since the Levels haven't changed between 1.1 and 1.1.1 you should be able to simply replace the .xml files.
+You can find the new levels at
+"C:\Users\[YourUsername]\AppData\Local\Temp\.net\BotsAreStupid\[RandomID]\Content\Levels\". Just delete those and replace them with the ones from the stable folder. 
+
+This should do it, please let me know if it worked!
+
+Will definitely look into an alternative way of saving instructions for the next update to fix this.
+
+Thanks for letting me know =)
+
+View rest ↓
+Ответить
+Пожаловаться
+
+
+
+Barbitos
+4 years ago
+(+1)
+It worked, thanks :)
+
+Ответить
+Пожаловаться
+
+
+
+ljh2000
+3 years ago
+Hi, there,
+
+
+I'm trying to play your demo but it won't let me complete the Introbot. It does nothing after I select the first three commands. 
+
+What am I doing wrong? Please write LHollman2@schools.nyc.gov.
+
+Thanks,
+
+Lee
+
+Ответить
+Пожаловаться
+
+
+
+Cosaur
+5 years ago
+This game is great so far. I have the global record on one of the levels, and I'm trying to refine others. 
+
+There is one niche complaint, in that an orb takes time to get to the gate. That means that you can pick something up and go towards the exit, but get there before the game does and overshoot. It's working as intended, but it feels a touch wonky to have to go spinning around until it gets there.
+
+Ответить
+Пожаловаться
+
+
+
+LeleG
+5 years ago
+Glad you enjoyed!
+Not sure what to do about the orb, since it's already been sped up a lot in the last patch. It's probably going to stay like that for the time being though. :)
+
+Ответить
+Пожаловаться
+
+
+
+Zepalios
+5 years ago
+I Love it. 
+I just finished playing, i'm really surprised by the quality of the game, i didn't expect such level.
+
+The gameplay is a really good idea and it works very well.
+The editor and its online function are a also a good surprise.
+
+The only thing that bothered me while playing is that i could not skip the tutorial, you can replay it but not skip it, it may be a bit long.
+
+You did an amazing job out there, thank you.
+
+Ответить
+Пожаловаться
+
+
+
+LeleG
+5 years ago
+(+1)
+Thank you kind sir!
+
+You can actually skip the tutorial by pressing "Clear Instructions" in the pause menu but I'll have to add a more obvious alternative. 
+
+Ответить
+Пожаловаться
+
+
+
+Shynif
+5 years ago
+Great game BUT if I didn't finish level 1 I wouldn't say it was extremely bad.
+Level 2 is good, the tutorials are great but the level 1 is just messy and awful. The use of every mechanics wasn't explained so level 1 is just a brute-force thing with 10 seconds of delay between each try.
+You should put level 1 at the end of the game and make another level 1. It's hard to finish it because we don't know how to use the grappling (especially in close spaces).
+
+Advice for another level 1 :
+- More space to work
+- learn steps by steps and not by throwing every possible mechanics in the first level
+
+I'm looking forward for other updates and more stages made by the community, keep the great work, there is a lot of potential in your game.
+
+View rest ↓
+Ответить
+Пожаловаться
+
+
+
+LeleG
+5 years ago
+Thanks for the feedback! :)
+I'm currently working on a better tutorial where features and new commands are introduced level by level. 
+
+By level 1, do you mean "Intro" or "Basic"?
+
+Ответить
+Пожаловаться
+
+
+
+Shynif
+5 years ago
+the first level where you have to write your own code, not the one with animation and already made code
+
+Ответить
+Пожаловаться
+
+
+
+pikar16107
+5 years ago
+A Linux ARM8 version would be awesome for those of us who use a Raspberry Pi 4 as a desktop machine on a regular basis. ;)
+
+Ответить
+Пожаловаться
+
+
+
+LeleG
+5 years ago
+(изменено)
+Yeah I'll add a build for that. You'll need to tell me if it works though :D
+
+Edit: Was told it crashes instantly, had to remove. 
+
+Ответить
+Пожаловаться
+
+
+
+Sk1tzFr3n1k
+5 years ago
+This game's fun.  Very fun.  Platformer with programming.  Schway idea.  Will play more.  Definitely.
+
+Ответить
+Пожаловаться
+
+
+
+LeleG
+5 years ago
+Glad you enjoyed it!
+
+Ответить
+Пожаловаться
+
+
+
+Sk1tzFr3n1k
+5 years ago
+Welcome.  Love the idea.  It reminds me.  Of Robo Rally.
+
+Ответить
+Пожаловаться
+
+
+
+MineGame159
+5 years ago
+(изменено)
+(+1)(-1)
+Great game but here are my opinions:
+
+Somtimes I get to the finish before the orb gets there even if I picked it up. I would suggest to increase speed of it when it is moving to the finish.
+I think it would be nice to have a timer that shows how long is the level goind for.
+It seems that when I try to hook something and falling down to spikes at the same time, the hook retracts before dying. I would be nice if it just kept going but I am not sure about this one.
+The tutorial seems a bit boring. It would be nice if the tutorial was interactive so new players could try new commands right away and not get bored.
+Maybe another hook command that accepts angle instead of right,left but
+keep the right,left too. Or add more options like high-left,high-right.
+Reveal advanced commands as player continues through the game. So maybe at the start of each level (or each 2 levels) it would show new command that would be available from now on. And when players get new commands they could revisit old levels to complete them faster/with less lines of code. Suggestion 5 could be one of the advanced commands. I think this would add great gameplay to the game.
+Another advanced command could be just 'stop' that will stop all horizontal movement in air. Stop left/right will stop acceleration to that direction but when in air it will keep going for some time.
+It would be nice to have resizable window.
+Skins for players that can be awarded when completing some levels.
+Some rating system to levels. Like for example 3 starts that players would get when completing some mini-challenges that would be different for each level. Like complete level under some time, less than x lines of code, pick up some special star, ... And some challenges cannot be completed right away so if players would want more stars (for a skin or something as a reward) they would need to revisit the level when they get more advanced commands.
+I have more ideas so if you want we could contanct through discord or whatever and talk more. And btw found out about this through reddit.
+
+Have a nice day. :)
+
+
+View rest ↓
+Ответить
+Пожаловаться
+
+
+
+LeleG
+5 years ago
+(+1)
+Thanks a lot for your feedback! I will definitely consider some of your suggestions for the next update. Those advanced commands could really be useful =)
+
+The easiest way to send feedback is probably using the dedicated button in the credits menu in-game. 
+
+Apr 07, 2023
+Games › Platformer › Free

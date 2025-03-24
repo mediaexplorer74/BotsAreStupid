@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level>
+    <meta>
+        <id>9c52b584-3c20-4878-97a0-10246b5de267</id>
+        <creator>
+            <name>leleg</name>
+            <uuid>ea21e36d-e42c-453a-9253-f0b8a5ab4809</uuid>
+        </creator>
+        <lastsaved>2020-06-19 01:59:13</lastsaved>
+    </meta>
+    <objects>
+        <portal x="922" y="482" width="50" height="50" />
+        <spawnpipe x="487" y="-17" width="50" height="80" playersize="5" />
+        <spike x="1052" y="-14" width="5" height="22" rotation="90" />
+        <platform x="1037" y="-18" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="1033" y="-14" width="5" height="22" rotation="270" />
+        <backgroundobject x="734" y="452" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="734" y="430" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <spike x="757.5" y="682.5" width="5" height="16" rotation="90" />
+        <spike x="618" y="60" width="22" height="6" rotation="180" />
+        <platform x="614" y="28" width="30" height="38" spritepos="193 0 15 19" collisionHeightPercent="0.85" />
+        <backgroundobject x="616" y="-2" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="823.5" y="75.5" width="24" height="13" rotation="90" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="808" y="70" width="16" height="17" rotation="180" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="807" y="46" width="13" height="24" rotation="180" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="805" y="22" width="17" height="25" spritepos="242 160 12 17" layerdepth="0.1" />
+        <booster x="852" y="77" width="10" height="10" boostspeed="200" />
+        <backgroundobject x="807" y="-2" width="13" height="24" rotation="180" spritepos="227 128 10 17" layerdepth="0.1" />
+        <spike x="550" y="746" width="6" height="22" rotation="90" />
+        <spike x="525" y="769" width="22" height="6" rotation="180" />
+        <backgroundobject x="528" y="721" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="528" y="699" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <platform x="520" y="740" width="31" height="30" spritepos="80 0 16 16" />
+        <platform x="424" y="774" width="48" height="55" spritepos="193 0 15 19" collisionHeightPercent="0.85" />
+        <backgroundobject x="437" y="743" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="437" y="711" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <booster x="501" y="273" width="10" height="10" boostspeed="200" />
+        <spike x="490" y="348" width="30" height="8" rotation="180" />
+        <platform x="486" y="309" width="40" height="39" spritepos="80 0 16 16" />
+        <backgroundobject x="495" y="277" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="495" y="245" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="912" y="401" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="912" y="445" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="912" y="423" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="969" y="401" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="969" y="423" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="969" y="445" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <spike x="985.5" y="485.5" width="4" height="15" rotation="90" />
+        <spike x="905.5" y="484.5" width="4" height="15" rotation="270" />
+        <spike x="985.5" y="516.5" width="4" height="15" rotation="90" />
+        <spike x="905.5" y="515.5" width="4" height="15" rotation="270" />
+        <spike x="932" y="459" width="30" height="8" />
+        <platform x="908" y="467" width="79" height="14" />
+        <platform x="971" y="474" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="971" y="506" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="907" y="506" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="907" y="474" width="16" height="32" spritepos="324 48 8 16" />
+        <backgroundobject x="1242" y="273" width="20" height="34" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1242" y="239" width="20" height="34" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1242" y="207" width="20" height="34" spritepos="227 128 10 17" layerdepth="0.1" />
+        <platform x="1222" y="292" width="46" height="49" spritepos="193 0 15 19" collisionHeightPercent="0.85" />
+        <backgroundobject x="1236" y="181" width="34" height="30" rotation="270" spritepos="221 144 15 17" layerdepth="0.1" />
+        <backgroundobject x="1269" y="48" width="34" height="20" rotation="90" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1243" y="50" width="26" height="26" rotation="270" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1232" y="72" width="26" height="26" rotation="90" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1267" y="179" width="34" height="20" rotation="90" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1209" y="171" width="26" height="26" rotation="180" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1209" y="82" width="26" height="26" rotation="270" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1207" y="106" width="20" height="34" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1195" y="138" width="30" height="34" spritepos="221 144 15 17" layerdepth="0.1" />
+        <backgroundobject x="1101" y="201" width="24" height="34" spritepos="242 160 12 17" layerdepth="0.1" />
+        <booster x="942" y="659" width="10" height="10" boostspeed="350" />
+        <backgroundobject x="1106" y="774" width="27" height="13" rotation="90" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1130" y="774" width="27" height="13" rotation="90" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1156" y="768" width="17" height="17" rotation="90" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1162" y="744" width="13" height="27" rotation="360" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1140" y="652" width="17" height="17" rotation="180" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1156" y="660" width="17" height="17" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1161" y="675" width="13" height="27" rotation="360" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1161" y="699" width="13" height="27" rotation="360" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1163" y="725" width="17" height="21" rotation="180" spritepos="221 144 15 17" layerdepth="0.1" />
+        <backgroundobject x="1178" y="730" width="27" height="13" rotation="270" spritepos="227 128 10 17" layerdepth="0.1" />
+        <platform x="1203" y="712" width="31" height="30" spritepos="80 0 16 16" />
+        <backgroundobject x="1211" y="671" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="693" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="605" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="627" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="649" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="539" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="561" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="583" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="473" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="495" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="517" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="451" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="429" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1211" y="407" width="14" height="22" spritepos="130 0 12 16" layerdepth="0.1" />
+        <platform x="1130" y="598" width="53" height="54" spritepos="80 0 16 16" />
+        <backgroundobject x="1145" y="503" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1145" y="535" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1145" y="567" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1145" y="407" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1145" y="439" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1145" y="471" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <platform x="1059" y="727" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1059" y="599" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1059" y="599" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="1055" y="637" width="5" height="22" rotation="270" />
+        <spike x="1055" y="637" width="5" height="22" rotation="270" />
+        <spike x="1055" y="701" width="5" height="22" rotation="270" />
+        <platform x="1059" y="631" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="1074" y="637" width="5" height="22" rotation="90" />
+        <platform x="1059" y="631" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="1074" y="637" width="5" height="22" rotation="90" />
+        <platform x="1059" y="663" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1059" y="695" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="1074" y="701" width="5" height="22" rotation="90" />
+        <platform x="1059" y="407" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1059" y="407" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="1055" y="445" width="5" height="22" rotation="270" />
+        <spike x="1055" y="445" width="5" height="22" rotation="270" />
+        <spike x="1055" y="509" width="5" height="22" rotation="270" />
+        <spike x="1055" y="573" width="5" height="22" rotation="270" />
+        <platform x="1059" y="439" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="1074" y="445" width="5" height="22" rotation="90" />
+        <platform x="1059" y="439" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="1074" y="445" width="5" height="22" rotation="90" />
+        <platform x="1059" y="471" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1059" y="503" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1059" y="535" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1059" y="567" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="1074" y="509" width="5" height="22" rotation="90" />
+        <spike x="1074" y="573" width="5" height="22" rotation="90" />
+        <backgroundobject x="910" y="757" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <backgroundobject x="1144" y="335" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <energyorb x="956" y="211" width="10" height="10" />
+        <energyorb x="461" y="457" width="10" height="10" />
+        <energyorb x="776" y="602" width="10" height="10" />
+        <backgroundobject x="547" y="667" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="547" y="635" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="547" y="603" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="547" y="571" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="401" y="667" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="401" y="635" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="401" y="603" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="401" y="571" width="24" height="32" spritepos="130 0 12 16" layerdepth="0.1" />
+        <platform x="392" y="699" width="192" height="32" spritepos="96 16 96 16" collisionHeightPercent="0.1" />
+        <backgroundobject x="436" y="686" width="105" height="13" spritepos="0 8 64 8" layerdepth="0.1" />
+        <backgroundobject x="734" y="518" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="734" y="496" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="734" y="474" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="734" y="540" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="734" y="562" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="734" y="584" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="734" y="606" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="734" y="628" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <spike x="735" y="666" width="16" height="5" />
+        <backgroundobject x="734" y="650" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <platform x="728" y="671" width="30" height="38" spritepos="193 0 15 19" collisionHeightPercent="0.85" />
+        <spike x="723.5" y="680.5" width="5" height="16" rotation="270" />
+        <spike x="775.5" y="523.5" width="5" height="16" rotation="270" />
+        <spike x="787" y="509" width="16" height="5" />
+        <platform x="780" y="514" width="30" height="38" spritepos="193 0 15 19" collisionHeightPercent="0.85" />
+        <backgroundobject x="786" y="493" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="786" y="471" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="786" y="449" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="786" y="427" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="786" y="405" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+        <backgroundobject x="1162" y="144" width="34" height="20" rotation="90" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1131" y="144" width="34" height="20" rotation="90" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1136" y="2" width="20" height="34" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1136" y="35" width="20" height="34" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1128" y="69" width="26" height="26" rotation="90" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1104" y="80" width="26" height="26" rotation="270" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1102" y="104" width="20" height="34" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1104" y="137" width="30" height="34" rotation="180" spritepos="221 144 15 17" layerdepth="0.1" />
+        <backgroundobject x="1103" y="170" width="20" height="34" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1115" y="248" width="16" height="10" rotation="270" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1131" y="248" width="16" height="10" rotation="270" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1147" y="248" width="16" height="10" rotation="270" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1163.5" y="249.5" width="14" height="13" rotation="360" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1168" y="261" width="10" height="16" rotation="360" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1168" y="277" width="10" height="16" rotation="360" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1168" y="291" width="10" height="16" rotation="360" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1164" y="307" width="13" height="14" rotation="90" spritepos="207 116 13 13" layerdepth="0.1" />
+        <backgroundobject x="1149" y="311" width="16" height="10" rotation="90" spritepos="227 128 10 17" layerdepth="0.1" />
+        <backgroundobject x="1102" y="234" width="20" height="34" spritepos="227 128 10 17" layerdepth="0.1" />
+        <platform x="1096" y="267" width="32" height="32" spritepos="80 0 16 16" />
+        <platform x="1118" y="299" width="32" height="32" spritepos="80 0 16 16" />
+        <platform x="1086" y="299" width="32" height="32" spritepos="80 0 16 16" />
+        <backgroundobject x="1046" y="335" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <backgroundobject x="812" y="757" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <platform x="619" y="755" width="492" height="71" />
+        <backgroundobject x="624" y="757" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <platform x="646" y="664" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="646" y="664" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="661" y="702" width="5" height="22" rotation="90" />
+        <spike x="661" y="702" width="5" height="22" rotation="90" />
+        <spike x="642" y="702" width="5" height="22" rotation="270" />
+        <spike x="642" y="702" width="5" height="22" rotation="270" />
+        <platform x="646" y="696" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="646" y="696" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="646" y="728" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="646" y="728" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="646" y="568" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="646" y="568" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="661" y="606" width="5" height="22" rotation="90" />
+        <spike x="661" y="606" width="5" height="22" rotation="90" />
+        <spike x="642" y="606" width="5" height="22" rotation="270" />
+        <spike x="642" y="606" width="5" height="22" rotation="270" />
+        <platform x="646" y="600" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="646" y="600" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="646" y="632" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="646" y="632" width="16" height="32" spritepos="324 48 8 16" />
+        <conveyorbelt x="527" y="486" width="90" height="14" movespeed="-2" />
+        <conveyorbelt x="437" y="486" width="90" height="14" movespeed="-2" />
+        <platform x="409" y="245" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="424" y="283" width="5" height="22" rotation="90" />
+        <platform x="409" y="309" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="409" y="277" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="405" y="283" width="5" height="22" rotation="270" />
+        <platform x="341" y="499" width="344" height="70" />
+        <spike x="405" y="347" width="5" height="22" rotation="270" />
+        <spike x="424" y="347" width="5" height="22" rotation="90" />
+        <platform x="409" y="341" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="409" y="373" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="424" y="411" width="5" height="22" rotation="90" />
+        <spike x="405" y="411" width="5" height="22" rotation="270" />
+        <platform x="409" y="405" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="409" y="437" width="16" height="32" spritepos="324 48 8 16" />
+        <backgroundobject x="484" y="501" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <platform x="409" y="469" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="424" y="475" width="5" height="22" rotation="90" />
+        <spike x="405" y="475" width="5" height="22" rotation="270" />
+        <backgroundobject x="296" y="501" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <backgroundobject x="680" y="175" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <platform x="318" y="-64" width="1038" height="68" />
+        <spike x="1122" y="-22" width="5" height="22" rotation="270" />
+        <spike x="1141" y="-22" width="5" height="22" rotation="90" />
+        <platform x="1126" y="-26" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1037" y="13" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="405" y="149" width="5" height="22" rotation="270" />
+        <spike x="424" y="149" width="5" height="22" rotation="90" />
+        <platform x="409" y="143" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="409" y="111" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="409" y="79" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="405" y="85" width="5" height="22" rotation="270" />
+        <spike x="424" y="85" width="5" height="22" rotation="90" />
+        <platform x="409" y="47" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="424" y="21" width="5" height="22" rotation="90" />
+        <spike x="405" y="21" width="5" height="22" rotation="270" />
+        <platform x="409" y="15" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="513" y="-52" width="5" height="22" rotation="90" />
+        <platform x="498" y="-56" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="409" y="-17" width="16" height="32" spritepos="324 48 8 16" />
+        <spike x="494" y="-52" width="5" height="22" rotation="270" />
+        <spike x="1052" y="49" width="5" height="22" rotation="90" />
+        <spike x="1033" y="49" width="5" height="22" rotation="270" />
+        <spike x="1033" y="115" width="5" height="22" rotation="270" />
+        <spike x="1052" y="115" width="5" height="22" rotation="90" />
+        <spike x="1052" y="308" width="5" height="22" rotation="90" />
+        <spike x="1052" y="243" width="5" height="22" rotation="90" />
+        <spike x="1052" y="179" width="5" height="22" rotation="90" />
+        <spike x="1033" y="308" width="5" height="22" rotation="270" />
+        <spike x="1033" y="243" width="5" height="22" rotation="270" />
+        <spike x="1033" y="179" width="5" height="22" rotation="270" />
+        <platform x="1037" y="237" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1037" y="269" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1037" y="301" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1037" y="141" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1037" y="173" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1037" y="205" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1037" y="77" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1037" y="109" width="16" height="32" spritepos="324 48 8 16" />
+        <platform x="1037" y="45" width="16" height="32" spritepos="324 48 8 16" />
+        <backgroundobject x="662" y="335" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <backgroundobject x="850" y="335" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <platform x="657" y="332" width="623" height="77" />
+        <backgroundobject x="582" y="175" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <platform x="391" y="173" width="488" height="72" />
+        <backgroundobject x="394" y="175" width="196" height="64" spritepos="64 96 96 32" layerdepth="0.75" />
+        <backgroundobject x="734" y="408" width="17" height="23" spritepos="130 0 12 16" layerdepth="0.1" />
+    </objects>
+    <instructions>
+</instructions>
+    <introinstructions>wait until grounded
+move right
+hook down right
+wait 2f
+jump
+wait 8f
+unhook
+wait 0.4
+stop
+wait until stopped
+say 12 Quick tip:%{hidden}~~~~~~~~~~%*You can use %{code}hook down % to shoot the %{red}hook% diagonally down.%{hidden}~~~~~~~~~~~~~~~~~~~~%*This is extremely useful for something like this:
+wait 7
+move right
+wait 0.25
+-stopsay
+wait 0.25
+jump
+wait 15f
+hook down right
+wait 0.53
+unhook
+move left
+wait until grounded
+wait 0.1
+stop
+wait until stopped
+wait 0.1
+say 3 Cool right?%{hidden}~~~~~~~~~~~~~~~%*See ya later!
+wait 2.2
+-stopsay
+move left
+jump
+wait 0.77
+hook left</introinstructions>
+</level>
