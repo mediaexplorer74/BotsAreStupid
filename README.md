@@ -6,6 +6,8 @@ R.E. of ITCH.io BotsAreStupid "special game dev project". ;)
 ## Screenshots
 ![W11](Images/sshot01.png)
 ![W11](Images/sshot02.png)
+![W11](Images/sshot03.png)
+![W11](Images/sshot04.png)
 
 ## Status
 - NET 4.8 used
@@ -30,5 +32,6 @@ As is. No support. DIY. Learn purposes only.
 
 ## ..
 [m][e] March 2025
+![Logo](Images/avatar.png)
 
 ![Logo](Images/BotsAreStupid.png)
