@@ -10,6 +10,7 @@ R.E. of ITCH.io ReechAndHait "special game dev project". ;)
 ## Status
 - NET 4.8 used
 - Project builded but damaged (100500 bugs after veery fast & dirty  R.E.!) 
+- Work-in-progress? (maybe yes, may be null!))))
 
 ## ToDo
 - Fix 100500 bugs
